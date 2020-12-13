@@ -1,0 +1,2 @@
+C:\Users\hecka\source\repos\C867_PA\x64\Debug\C867_PA.exe
+C:\Users\hecka\source\repos\C867_PA\x64\Debug\C867_PA.pdb
